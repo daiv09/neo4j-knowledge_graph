@@ -55,3 +55,25 @@ Example:
    ```bash
    git clone https://github.com/daiv09/neo4j-knowledge_graph.git
    cd neo4j-knowledge_graph
+
+2. Open and run the notebook
+   ```bash
+   jupyter notebook graphRAG.ipynb
+
+3. Upload the dataset `Characters.csv` if needed
+4. Connect your Neo4j instance and execute the Cypher queries
+
+🧩 Resources
+
+📘 Notion Notes (Concepts + Visuals): View Notes
+
+📹 Reference Video by Krish Naik: YouTube - Knowledge Graphs Explained
+
+💡 Learnings
+- Understanding Knowledge Graphs and how they differ from traditional RDBMS
+- Building semantic relationships using Neo4j Property Graph Model
+- Integrating Graph-based Retrieval-Augmented Generation (GraphRAG)
+- Traversing data using Cypher queries
+- Visualizing entity connections in an intuitive, interpretable way
+
+🪄 Example Output
