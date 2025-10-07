@@ -65,9 +65,9 @@ Example:
 
 🧩 Resources
 
-📘 Notion Notes (Concepts + Visuals): View Notes
+📘 Notion Notes (Concepts + Visuals): [View Notes](GraphRAG%20neo4j-Notion%20Notes.md)
 
-📹 Reference Video by Krish Naik: YouTube - Knowledge Graphs Explained
+📹 Reference Video by Krish Naik: [YouTube - Knowledge Graphs Explained](https://youtu.be/hsOJhs3_UCM?si=znqNA7YfG_UXmChF)
 
 💡 Learnings
 - Understanding Knowledge Graphs and how they differ from traditional RDBMS
@@ -75,5 +75,3 @@ Example:
 - Integrating Graph-based Retrieval-Augmented Generation (GraphRAG)
 - Traversing data using Cypher queries
 - Visualizing entity connections in an intuitive, interpretable way
-
-🪄 Example Output
