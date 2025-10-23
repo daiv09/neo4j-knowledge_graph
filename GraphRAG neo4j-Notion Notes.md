@@ -14,13 +14,13 @@
 - Relationships- Edge between *source node* and a destination *node*
 - Label(Optional)- Defines what kind of nodes they are
 
-![image.png](image.png)
+![image.png](https://ik.imagekit.io/kqmrslzuq/Github_README/image_1_2.png?updatedAt=1761235012609)
 
 Named Entity Recognition (NER) in NLP focuses on ***identifying and categorizing important information*** known as entities in text.
 
 ## Traditional RAG
 
-![image.png](image%201.png)
+![image.png](https://ik.imagekit.io/kqmrslzuq/Github_README/image_1.png?updatedAt=1761235012916)
 
 [https://www.notion.so](https://www.notion.so)
 
